@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Krish 👋
 
-<!--
-**KrishPatil-Reva/KrishPatil-Reva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Artificial Intelligence & Data Science
 
-Here are some ideas to get you started:
+💻 Skills: C Programming | Python | DBMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interested in AI, Data Science, and Software Development
+
+## 🌐 My Portfolio
+
+[View My Portfolio](https://krishpatil-reva.github.io/personal-portfolio/)
+
+## 🔗 Connect With Me
+
+[GitHub](https://github.com/KrishPatil-Reva)  
+[LinkedIn](https://www.linkedin.com/in/krish-patil-954696385/)
